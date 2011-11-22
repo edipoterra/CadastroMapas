@@ -11,5 +11,13 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+          android:name=".AddContato"
+          android:label="Adiciona Contatos">
+        </activity>
+        <activity
+          android:name=".GridList"
+          android:label="Contatos">
+        </activity>
     </application>
 </manifest> 
